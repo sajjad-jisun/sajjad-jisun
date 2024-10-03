@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**sajjad-jisun/sajjad-jisun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h1 align="center">Hi 👋, I'm Sajjad Jisun</h1>
+<h1 align="center">Hi 👋, I'm Sajjad Jisun</h1>
 <h3 align="center">I'm [Sajjad Jisun](https://www.linkedin.com/in/sajjadjisun/) from Bangladesh, A CSE Undergrad , A full-time Developer & Programmer 👨‍💻 Pursuing my BSc from [CUET](https://www.cuet.ac.bd/) 🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
@@ -47,11 +39,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjad-jisun&show_icons=true&locale=en" alt="sajjad-jisun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjad-jisun&" alt="sajjad-jisun" /></p>
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
